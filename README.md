@@ -5,7 +5,7 @@
 - 🧋 Projects: Please see my latest projects below.
 - 💼 Currently occupied with personal projects; but I'm open to new opportunities.
 - 💬 How to reach me: Feel free to contact me via email for professional inquiries.
-- 📬 Old-school communication: If you're feeling nostalgic, send a letter or a telegram by post.
+- 📜 Old-school communication: If you're feeling nostalgic, send a letter or a telegram by post.
 
 
 <!---
