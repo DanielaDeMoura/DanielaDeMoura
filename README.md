@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @DanielaDeMoura
-- 👀 I’m interested in ... Software Engineering at the moment
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... nothing at the moment.
-- 📫 How to reach me ... contact me via email, or if you are really old school send me a telegram via post.
+- 🥥 Hi, I’m @DanielaDeMoura
+- 🐻 I’m interested in Front End Web Development, UI/UX
+- 🦓 Skills: HTML, CSS, JavaScript, jQuery, React, Python
+- 💻 Currently learning ... Front End Web Development and C#
+- 🧋 Projects: Please see my latest projects below.
+- 💼 Currently occupied with personal projects; but I'm open to new opportunities.
+- 💬 How to reach me: Feel free to contact me via email for professional inquiries.
+- 📬 Old-school communication: If you're feeling nostalgic, send a letter or a telegram by post.
+
 
 <!---
 DanielaDeMoura/DanielaDeMoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
